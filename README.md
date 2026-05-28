@@ -207,5 +207,3 @@ GitHub: https://github.com/akhil5005
 
 ---
 
-```
-```
